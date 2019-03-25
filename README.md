@@ -10,20 +10,13 @@
 
 ## Instructions
 
-Welcome to the evaluation for the Ruby module, where we’ll emulate the workflow of a software project. You will be assigned to a 4-5 people team and given an app to be build. Each group will have a different application, with different requirements. So no two projects will be the same.
+- Download all files. (clone or download)
+- In terminal, go to `\` and run `bundler install`
+- Then, execute `ruby routes.rb`*.
+- Open your explorer and access http://localhost:8000
 
-- Each team will be assigned a Github repo inside the [Codeable organization](https://github.com/codeableorg)
-  - [personal-library-app](https://github.com/codeableorg/personal-library-app)
-  - [diary-app](https://github.com/codeableorg/diary-app)
-  - [weight-tracker-app](https://github.com/codeableorg/weight-tracker-app)
-  - [recipes-app](https://github.com/codeableorg/recipes-app)
-- Inside the repo, you will find the `user stories` or requirements inside the **issues** tab at `/issues`
-  - Each team member must be the owner of at least 1 user story. It’s up to your team how you plan to organize yourselves. Assign the issue to the team member who will be responsible.
-  - You are required to implement at least 4 or 5 user stories, depending on the number of team members you have. So if your team has 5 people, your minimum is 5. If it has 4 members, you will only be required to implement 4.
-  - While it is not mandatory to execute all user stories, the more the better.
-  - Each user story has an _acceptance criteria_ (denoted by the checkbox) that your implementation **must** complete. Not delivering this is considered a **FAIL**
-- Each team must define a _Tech Lead_ and a _Project Coordinator_, the list of the team members and the roles assigned should be added to the README of the repository (this document). Only the _Tech Lead_ is allowed to ask technical questions to the instructors and only the _Project Coordinator_ is allowed to ask questions regarding the requirements of the project.
-- You are required to create just **ONE** pull request per user story.
+*This program runs on port 8000.
+
 
 ## Evaluation
 
